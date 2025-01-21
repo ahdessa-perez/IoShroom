@@ -1,8 +1,10 @@
 # IoShroom
+
+## 🔗 Live Page (https://ahdessa-perez.github.io/IoShroom/)
+
 ### IoShroom Mobile Application
 
-#### **Project Title:**  
-**IoShroom Mobile Application**
+#### Project Title: IoShroom Mobile Application
 
 #### **Description:**  
 The IoShroom mobile application is a user-friendly, innovative system designed to monitor and manage mushroom farming processes efficiently. This application integrates seamlessly with IoShroom's hardware components, enabling users to control and automate colonization and harvesting activities through an intuitive interface.
